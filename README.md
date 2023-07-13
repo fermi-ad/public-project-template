@@ -1,2 +1,3 @@
-# public-project-template
+# Public Project Template
+
 A template repo for public repos.
